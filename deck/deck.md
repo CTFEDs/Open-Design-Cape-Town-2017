@@ -57,7 +57,14 @@ Demo time!
 
 ---
 
-# Make notes on the big paper
+## *Make notes*
+## Ideas, not art
+
+^ on the big paper
+
+---
+
+![](sketchnotes.jpg)
 
 ---
 
