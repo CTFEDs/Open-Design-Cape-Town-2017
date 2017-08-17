@@ -22,6 +22,10 @@ theme: poster
 
 ---
 
+## Share with 3 people<br>at your table
+
+---
+
 # Lean Coffee :coffee:
 
 ^ Anyone familiar?
