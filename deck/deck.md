@@ -89,35 +89,6 @@ Demo time!
 
 ---
 
-# Pick a new<br>topic table
-
-^ new ones after the break
-
----
-
-## *Write down topic ideas*
-## 1 per sticky
-
----
-
-## *Dot vote*
-## 2 dots each
-
----
-
-# Make notes on the big paper
-
----
-
-## *Order by votes*
-## Move first one to<br>**Discussing**
-
----
-
-# What did<br>you *learn?*
-
----
-
 # Comment on<br>the meetup
 
 ---
