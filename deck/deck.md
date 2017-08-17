@@ -7,15 +7,18 @@ theme: poster
 
 # Intros
 
----
-
-## *Why are you here today?*
-## Write on a sticky
+^ Of us three
 
 ---
 
-## *Why are you here today?*
-## Share with 3 people
+# Table intros
+## Grab a pen and stickies
+
+---
+
+### *What do you want to learn?*
+### *What does* open *mean to you?*
+### *What are you here today?*
 
 ---
 
