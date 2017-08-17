@@ -72,7 +72,15 @@ Demo time!
 
 ---
 
-# What did<br>you *learn?*
+# Table feedback
+
+^ We three talk through
+
+---
+
+## *Handouts*
+## What I learned
+## What I'm going to do
 
 ---
 
