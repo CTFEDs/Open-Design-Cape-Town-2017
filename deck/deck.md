@@ -36,13 +36,14 @@ Demo time!
 
 ---
 
-# Pick a<br>topic table
+## *Pick a topic table*
+## (or make a new one!)
 
 ^ new ones after the break
 
 ---
 
-## *Write down topic ideas*
+## *Write down agenda ideas*
 ## 1 per sticky
 
 ---
